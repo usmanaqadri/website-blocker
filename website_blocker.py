@@ -1,6 +1,6 @@
 import time
 from datetime import datetime as dt
-hosts_temp = "hosts"
+# hosts_temp = "hosts_temp"
 hosts_path = "/etc/hosts"
 redirect = "127.0.0.1"
 website_list = ["www.facebook.com", "facebook.com", "www.youtube.com", "youtube.com", "www.play.pokemonshowdown.com", "play.pokemonshowdown.com", "www.free-spider-solitaire.com", "free-spider-solitaire.com"]
